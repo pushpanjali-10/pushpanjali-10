@@ -5,20 +5,17 @@ Hi there !
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>
-
 <p align="center">
   <a href="mailto:pushpanjali.nema@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
   <a href="www.linkedin.com/in/pushpanjali-nema-31b49a201"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
   <a href="https://github.com/pushpanjali-10"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
 </p>
-
+    
 I'm [Pushpanjali Nema](https://pushpanjali-10.github.io/Portfolio/), a passionate self-taught full stack web developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. 
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 - 💼 Any freelance work? Do reach, [email](mailto:pushpanjali.nema@gmail.com) :).
 - 💬 Ask me about anything, I am happy to help.
 
@@ -57,8 +54,6 @@ If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 663 tasks so far           
 ⏳  Longest streak is 3 days -->
 <!-- TODO-IST:END --> 
-
-
 📈 My github stats
 
 [![Pushpanjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushpanjali-10)](https://github.com/anuraghazra/github-readme-stats)
